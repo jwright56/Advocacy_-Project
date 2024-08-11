@@ -7,14 +7,9 @@ with poor housing quality in impoverished communities. A form is implemented to 
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Here's a link to a video walkthrough of implemented features:
 
-
-
-
-<img src='./assets/Web102_Prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with LICECap 
+https://drive.google.com/file/d/1A37U2VqI780wo6nTMNnjrG4X-NWmJl6A/view
 
 ## License
 
