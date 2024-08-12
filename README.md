@@ -1,7 +1,5 @@
 # WEB101 Advocacy Project - *Repair Now*
 
-Submitted by: **Jonathan Wright**
-
 **Repair Now** is a front-end website that informs the user of the negative physical and mental health effects associated 
 with poor housing quality in impoverished communities. A form is implemented to allow the user to express their support for the website's mission.
 
